@@ -22,7 +22,7 @@ A proposta é explorar, de forma clara e objetiva, as ferramentas estatísticas 
 
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  
 - ![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png) **Jupyter Notebook**  
-- ![Estatística](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-statistics-data-science-flat-flat-juicy-fish.png) **Estatística**
+- ![Estatística](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-pie-chart-statistics-flat-flat-juicy-fish.png) **Estatística**
 - 
 
 ## 📂 Estrutura do Projeto
