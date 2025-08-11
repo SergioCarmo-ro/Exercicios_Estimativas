@@ -22,8 +22,7 @@ A proposta é explorar, de forma clara e objetiva, as ferramentas estatísticas 
 
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  
 - ![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png) **Jupyter Notebook**  
-- ![Estatística](https://www.flaticon.com/br/icone-gratis/estatisticas_164424.png) **Estatística**
-- 
+  
 
 ## 📂 Estrutura do Projeto
 
